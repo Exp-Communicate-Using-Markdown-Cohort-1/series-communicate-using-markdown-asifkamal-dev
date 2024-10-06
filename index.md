@@ -1,3 +1,4 @@
-# Reviewing the differences between Markdown
+# Communicate using the Markdown Education Program
+- Working with the readme to update this markdown file
 
-### This is more of a test
+  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
